@@ -1,0 +1,1 @@
+mkdir -p src/{components,lib,modules,pages} public styles
