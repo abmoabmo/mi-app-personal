@@ -1,0 +1,1 @@
+touch .gitignore README.md .env.example next.config.js
